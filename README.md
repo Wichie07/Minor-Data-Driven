@@ -1,2 +1,0 @@
-# Minor-Data-Driven
-Minor
